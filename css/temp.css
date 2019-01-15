@@ -1,0 +1,23 @@
+div {
+  width :100px;
+  height :100px;
+}
+.r{
+  position: absolute;
+  left : 200px;
+  top : 200px;
+  background-color: red;
+}
+.b{
+  position: absolute;
+  left:100px;
+  top :100px;
+  background-color: blue;
+}
+.y{
+  position: absolute;
+  background-color: yellow;
+}
+body {
+  margin: 0;
+}
